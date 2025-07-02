@@ -1,0 +1,4 @@
+WarehouseID,ProductID,StockLevel
+W001,P101,150
+W002,P102,80
+W003,P103,120
