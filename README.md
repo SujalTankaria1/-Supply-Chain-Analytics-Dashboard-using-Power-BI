@@ -41,7 +41,7 @@ This project showcases how data can be cleaned, structured, and visualized to ex
 
 ## 📸 Dashboard Preview
 
-![Dashboard Screenshot](images/dashboard-overview.png)
+![Dashboard Screenshot](images/Dashboard-overview.png)
 
 > The dashboard includes visuals like:
 > - Avg Delivery Delay (Card)
