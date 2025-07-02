@@ -33,7 +33,8 @@ This project showcases how data can be cleaned, structured, and visualized to ex
 ├── SupplyChain_Dashboard.pbix # Power BI dashboard file
 ├── main.py # Python script used to clean and export the data
 ├── images/
-│ ├── dashboard-overview.png # Screenshot of dashboard
+│ ├── Dashboard-Overview.png # Screenshot of dashboard
+| ├── models-relationship.png # Screenshot of models and their relationships
 └── README.md # Project documentation
 
 
@@ -53,6 +54,8 @@ This project showcases how data can be cleaned, structured, and visualized to ex
 ---
 
 ## ⚙ Data Model & Relationships
+
+![Models-Relationship Screenshot](images/models-relationship.png)
 
 - `Orders[ProductID]` → `Products[ProductID]`
 - `Orders[SupplierID]` → `Suppliers[SupplierID]`
